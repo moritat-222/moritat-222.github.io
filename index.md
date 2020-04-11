@@ -1,10 +1,11 @@
 ![N予備校](logo.png)<br>
-![プロフィール画像](twitterIcon.jpg)
 
 # About
 プログラミングを学んで便利なものを作りたい。  
 プログラミングを学んで世の中の不合理をみ〜んな無くしたい
 
+# アイコン画像
+![プロフィール画像](twitterIcon.jpg)
 
 ## Profile
 -　ハンドルネーム：　Molly  
