@@ -25,7 +25,9 @@
 - [FizzBuzzナベアツ]()
 
 # Contact
-- [Twitter](https://twitter.com/Molly95554907)
+- [Twitter](https://twitter.com/Molly95554907)  
+
+<a class="twitter-timeline" data-width="400" data-height="400" data-theme="dark" href="https://twitter.com/Molly95554907?ref_src=twsrc%5Etfw">Tweets by Molly95554907</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # History
 (学歴・職歴・表象・受賞)
