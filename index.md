@@ -1,4 +1,5 @@
 ![N予備校](logo.png)
+![プロフィール画像](twitterIcon.jpg)
 
 # About
 プログラミングを学んで便利なものを作りたい。  
