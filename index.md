@@ -22,7 +22,9 @@
 - [Github](https://github.com/moritat-222)
 - [Qiita](https://qiita.com/Molly95554907)
 - [秘密の掲示板]()
-- [FizzBuzzナベアツ]()
+- [FizzBuzzナベアツ]()  
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">N予備校開始3日目。<br>JavaScriptの繰り返し処理を使い、「3の倍数でアホになる世界のナベアツ氏」のループを作って遊ぶ🤣🤣👏👏<a href="https://twitter.com/hashtag/%E4%BB%8A%E6%97%A5%E3%81%AE%E7%A9%8D%E3%81%BF%E4%B8%8A%E3%81%92?src=hash&amp;ref_src=twsrc%5Etfw">#今日の積み上げ</a> <a href="https://twitter.com/hashtag/N%E4%BA%88%E5%82%99%E6%A0%A1?src=hash&amp;ref_src=twsrc%5Etfw">#N予備校</a> <a href="https://twitter.com/hashtag/%E5%AE%BF%E9%A1%8C?src=hash&amp;ref_src=twsrc%5Etfw">#宿題</a> <a href="https://twitter.com/hashtag/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0?src=hash&amp;ref_src=twsrc%5Etfw">#プログラミング</a> <a href="https://t.co/NsDXXOnHXu">pic.twitter.com/NsDXXOnHXu</a></p>&mdash; Molly@プログラミング勉強中 (@Molly95554907) <a href="https://twitter.com/Molly95554907/status/1235578238077935616?ref_src=twsrc%5Etfw">March 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Contact
 - [Twitter](https://twitter.com/Molly95554907)  
