@@ -1,4 +1,4 @@
-![N予備校](logo.png)
+![N予備校](logo.png)<br>
 ![プロフィール画像](twitterIcon.jpg)
 
 # About
