@@ -30,3 +30,6 @@
 (学歴・職歴・表象・受賞)
 - 2020年3月　N予備校入学
 
+#最近はまっているもの
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qOiDlprXF2w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
