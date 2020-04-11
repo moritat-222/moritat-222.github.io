@@ -7,7 +7,7 @@
 # アイコン画像
 ![プロフィール画像](twitterIcon.jpg)
 
-## Profile
+# Profile
 -　ハンドルネーム：　Molly  
 -　所在地：　関西圏  
 -　プログラミング勉強中！  
@@ -39,10 +39,12 @@
 - 2019年4月　大学卒業
 - 2020年3月　N予備校入学
 
-# 最近はまっているもの
+# 最近はまっているもの  
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qOiDlprXF2w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# 元気が出る動画
+# 元気が出る動画  
+
 <script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm8425342/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm8425342">【手描き】ジョジョの画像で「リズム天国ゴールドエクスペリエンス」</a></noscript>
 
 
